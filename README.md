@@ -1,14 +1,29 @@
-As part of this project, I develop two Tableau dashboards to support stakeholders, including sales managers and executives, in analyzing sales performance and customer insights.
+# Tableau Dashboards for Sales and Customer Insights  
 
-Sales Dashboard
-This dashboard will provide a comprehensive view of key sales metrics and trends, enabling a year-over-year performance comparison. It will highlight revenue patterns, sales distribution, and other critical insights to support data-driven decision-making.
+As part of this project, I have developed two **Tableau dashboards** to support stakeholders, including sales managers and executives, in analyzing **sales performance** and **customer insights** effectively.  
 
-Customer Dashboard
-Designed for marketing teams and management, this dashboard will present customer data, segmentation, and behavioral trends. It will offer actionable insights to enhance customer satisfaction, retention, and targeted marketing strategies.
+## 🚀 Sales Dashboard  
+This dashboard provides a **comprehensive view of key sales metrics and trends**, enabling a **year-over-year performance comparison**. It highlights:  
+✅ Revenue patterns  
+✅ Sales distribution  
+✅ Critical insights to support data-driven decision-making  
 
-These dashboards will be designed for clarity, interactivity, and ease of use, ensuring stakeholders can quickly derive meaningful insights.
+![Sales Dashboard](https://github.com/user-attachments/assets/5c5a3281-5189-4913-957d-4dd4f6cecdcd)  
 
-Images:
-![{DA92FAA6-2878-4FE3-9651-5C5A8CF5B4CB}](https://github.com/user-attachments/assets/5c5a3281-5189-4913-957d-4dd4f6cecdcd)
-![{7163243A-12DD-4E06-AB52-5CAD64EB582A}](https://github.com/user-attachments/assets/baebd18c-fc89-42cc-a968-7ffb0a9d5af0)
+## 🎯 Customer Dashboard  
+Designed for **marketing teams and management**, this dashboard presents **customer data, segmentation, and behavioral trends**. It offers actionable insights to:  
+✅ Enhance customer satisfaction  
+✅ Improve retention  
+✅ Optimize targeted marketing strategies  
 
+![Customer Dashboard](https://github.com/user-attachments/assets/baebd18c-fc89-42cc-a968-7ffb0a9d5af0)  
+
+## ✨ Key Features  
+- **Interactive visualizations** for seamless data exploration  
+- **User-friendly design** for quick insights  
+- **Data-driven decision support** for business growth  
+
+🔹 **Built using:** Tableau  
+🔹 **Target audience:** Sales teams, executives, and marketing professionals  
+
+📌 *For more details, feel free to reach out or explore the repository!*  
